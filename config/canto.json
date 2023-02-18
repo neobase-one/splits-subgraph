@@ -1,0 +1,12 @@
+{
+  "network": "canto",
+  "splitMainAddress": "'0x3c4b7a091647aBBD2F737f33766c9eFD520B1C78'",
+  "vestingFactoryAddress": "'0x445cbef6Ad25daa91dA27CD1BaCb6D59d2fbD52a'",
+  "waterfallFactoryAddress": "'0x5DF044Ff0Bf4d960aB9A299C07Cf4b7F6B3552df'",
+  "liquidSplitFactoryAddress": "'0x1162f030e707FeD0A5A88CC1924c1B4157c94b64'",
+  "splitStartBlock": "1775176",
+  "vestingStartBlock": "1776291",
+  "waterfallStartBlock": "1776344",
+  "liquidSplitStartBlock": "2246448",
+  "polygon": true
+}  
