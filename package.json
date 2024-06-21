@@ -49,5 +49,8 @@
   },
   "devDependencies": {
     "mustache": "^4.2.0"
+  },
+  "resolutions": {
+      "concat-stream": "github:max-mapper/concat-stream#master"
   }
 }
